@@ -565,7 +565,7 @@ public class Main {
         //Lesson1
         int[] salaryTotal = generateRandomArray();
 
-        
+
     }
 
 
